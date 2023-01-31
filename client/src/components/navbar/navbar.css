@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    height: 50px;
+    border-bottom: 1px solid lightgray;
+}
+
+.left{
+    flex: 1;
+}
+
+.home-link{
+    text-decoration: none;
+    color: blue;
+    font-weight: 600;
+}
+
+.middle{
+    flex: 4;
+}
+
+.right{
+    flex: 1;
+}
